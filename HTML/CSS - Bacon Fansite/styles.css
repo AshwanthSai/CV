@@ -1,0 +1,44 @@
+/******************** CSS STYLING ***************************/
+body {
+  background-color: white;
+}
+hr {
+  width: 5%;
+  border-style: dotted none none;
+  border-width: 10px;
+  border-color: white;
+}
+
+h1 {
+  color: black;
+  font-size: 100px;
+}
+
+h3 {
+  color: #66bfbf;
+}
+
+img {
+  background-color: white;
+}
+
+/******************* Class Styling **********************************/
+
+.heading {
+  font-size: 50px;
+}
+.solomon:hover {
+  font-size: x-small;
+}
+
+/************************* ID ******************************************/
+
+#one {
+  font-size: 10px;
+  color: red;
+}
+
+#imgOne:hover {
+  background-color: black;
+  border-radius: 100%;
+}
